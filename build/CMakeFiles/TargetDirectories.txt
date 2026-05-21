@@ -1,0 +1,5 @@
+/home/creature/Desktop/DM-openarm/resources/DMmotor/build/CMakeFiles/motor.dir
+/home/creature/Desktop/DM-openarm/resources/DMmotor/build/CMakeFiles/dm_main.dir
+/home/creature/Desktop/DM-openarm/resources/DMmotor/build/CMakeFiles/dev_sn.dir
+/home/creature/Desktop/DM-openarm/resources/DMmotor/build/CMakeFiles/edit_cache.dir
+/home/creature/Desktop/DM-openarm/resources/DMmotor/build/CMakeFiles/rebuild_cache.dir

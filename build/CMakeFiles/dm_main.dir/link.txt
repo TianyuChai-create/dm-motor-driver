@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/dm_main.dir/src/main.cpp.o -o dm_main  libmotor.a /home/creature/Desktop/DM-openarm/resources/DMmotor/lib/libu2canfd.a -lusb-1.0 
