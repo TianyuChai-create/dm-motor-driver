@@ -220,3 +220,7 @@ while (1)
 这个函数是对接收到的can报文的解析，不能主动调用，他是作为参数传入到usb_class这个类，在usb\_class类里会开启线程调用该函数，
 
 你可以重写这个函数解析自己的can报文数据
+
+## Related Projects
+
+This library is used by [dm-arm-control](https://github.com/TianyuChai-create/dm-arm-control) for robotic arm control.
